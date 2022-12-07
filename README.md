@@ -3,13 +3,13 @@
 ## 安装
 
 ```
-npm install i-tools
+npm install tf-tools
 ```
 
 ## 导入
 
 ```js
-const iTools = require("i-tools");
+const ittfTools = require("ittf-tools");
 ```
 
 ## 格式化时间
