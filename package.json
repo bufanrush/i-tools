@@ -1,0 +1,12 @@
+{
+  "name": "i-tools",
+  "version": "1.0.0",
+  "description": "一个会被频繁使用的功能工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "执念",
+  "license": "ISC"
+}
